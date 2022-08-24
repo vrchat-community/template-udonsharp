@@ -52,13 +52,14 @@ Use Unity 2019.4.31.f1 to open the project. Press "OK" on the dialog that offers
 <details>
 <summary>
 
-## 4. Load the Example Avatar
+## 4. Load the Example World
 
 </summary>
 
 Find the "VRChat SDK" item in the menu bar at the top of the Unity Editor window, press it to open, then choose "Samples > UdonExampleScene".
 
-![avatar-sample](https://user-images.githubusercontent.com/737888/185468680-43c8900d-37df-45c1-979c-8c7007c99d3e.png)
+![samples-udonexample-scene](https://user-images.githubusercontent.com/737888/186485286-2758cec3-ec89-4598-a451-9fa12fa27616.png)
+
 
 Once the scene opens, choose "File > Save As..." and give the scene a new name.
 
