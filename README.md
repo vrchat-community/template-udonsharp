@@ -2,34 +2,37 @@
 
 This repo makes it easy to start a new VRChat World project with UdonSharp!
 
-<details>
-<summary>
+Here's how to download the template and upl
 
-## I Wanna Go Fast
+## Download the `.zip`
 If you don't care about using source control and just want to make something quick:
 
-</summary>
-
 1. [Download this Zip](https://github.com/vrchat-community/template-udonsharp/archive/refs/heads/main.zip) and unpack it somewhere.
-2. Go to "3. Open the Project" below.
+2. Go to
+"3. Open the Project" below.
+
+
+## Download with Source Control
+This template is set up to easily make your own GitHub projects, and we highly recommend you take this route:
+
+<details>
+<summary>
+  
+## 1. Make Your Own GitHub Project
+  
+</summary>
+  
+Press [![Use This Template](https://user-images.githubusercontent.com/737888/185467681-e5fdb099-d99f-454b-8d9e-0760e5a6e588.png)](https://github.com/vrchat-community/template-udonsharp/generate)
+to start a new GitHub project, and follow the directions there. This is an optional step but gets you started with using GitHub for source control so you'll always have a backup.
 
 </details>
 
 <details>
 <summary>
-
-## I Want To Use Source Control
-This template is set up to easily make your own GitHub projects, and we highly recommend you take this route.
-
-</summary>
-
-## 1. Make Your Own GitHub Project
-
-Press [![Use This Template](https://user-images.githubusercontent.com/737888/185467681-e5fdb099-d99f-454b-8d9e-0760e5a6e588.png)](https://github.com/vrchat-community/template-udonsharp/generate)
-to start a new GitHub project, and follow the directions there. This is an optional step but gets you started with using GitHub for source control so you'll always have a backup.
-
+  
 ## 2. Clone or Download the Project
-
+  
+</summary>
 If you're not ready to use git yet, you can download a zip of your project by pressing the "Code" button and then "Download Zip".
 
 If you're familiar with git, use your favorite client or the command line to clone your repository.
